@@ -13,7 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, **I'm Gopal**
-
-
-
+<p align=center> <img alt="header" src="header.png"/> </p>
