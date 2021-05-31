@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align=center> <img alt="header" src="header.png"/> </p>
+<p align=center> <img alt="header" src="header.png" width=100%/> </p>
